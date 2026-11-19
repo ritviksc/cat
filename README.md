@@ -1,4 +1,4 @@
-# scat
+# cat
 
 A lightweight static code analysis tool written in **AWK** for analyzing C/C++ header files.
 The goal of this project is to extract useful structural and documentation-related insights from header files without implementing a full C/C++ parser.
