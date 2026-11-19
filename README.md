@@ -93,7 +93,7 @@ Comments:
 gawk -f header_check.awk header_file.h
 ```
 
-The script expects a filename as input (not stdin) in order to retrieve file metadata.
+The script expects a filename as input in order to retrieve file metadata.
 
 ---
 
